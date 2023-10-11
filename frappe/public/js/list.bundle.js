@@ -22,7 +22,8 @@ import "./frappe/list/list_sidebar_stat.html";
 import "./frappe/list/list_sidebar_group_by.js";
 import "./frappe/list/list_view_permission_restrictions.html";
 
-import "./frappe/views/gantt/gantt_view.js";
+// import "./frappe/views/gantt/gantt_view.js";
+import "./frappe/views/gantt/gantt_view_alt.js"
 import "./frappe/views/calendar/calendar.js";
 import "./frappe/views/dashboard/dashboard_view.js";
 import "./frappe/views/image/image_view.js";
